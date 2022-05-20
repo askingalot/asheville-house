@@ -1,6 +1,6 @@
 # 201 Brucemont Circle, Asheville, NC 28806
 
-| **Year Build** | **Style** | **House Size** | Bedrooms | Bathrooms| **Lot Size** |
+| **Year Build** | **Style** | **House Size** | **Beds** | **Baths** | **Lot Size** |
 | --- | --- | --- | --- | --- | --- |
 | 1919 | Bungalow | 2,140 sq ft | 5 | 3 | 6,098 sq ft | 
 
